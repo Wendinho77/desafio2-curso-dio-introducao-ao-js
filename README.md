@@ -16,6 +16,4 @@ Lista simples de Tarefas.
 
 
 
-<img src=".\assets\img\listadetarefas.png"  />
-
-
+![Listadetarefas](https://user-images.githubusercontent.com/105667364/170719932-4dac5bf6-1986-436e-9b7d-8c961c8c7fb4.png)
